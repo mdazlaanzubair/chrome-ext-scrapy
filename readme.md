@@ -12,7 +12,7 @@ It is a Chrome extension designed to easily extract and log data from the curren
 ## Installation
 
 1. **Clone** this [repository](https://github.com/mdazlaanzubair/chrome-ext-scrapy.git).
-2. **Open** Chrome and navigate to [chrome://extensions/](chrome://extensions/).
+2. **Open** Chrome and navigate to `chrome://extensions/`.
 3. **Enable** `Developer mode` by toggling the switch in the top right corner.
 4. **Click** "Load unpacked" and select the cloned repo folder.
 
